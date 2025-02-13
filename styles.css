@@ -5,21 +5,20 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    background-color: #f4f4f4;
+    height: 80vh;
+    background-color: #ecdede;
 }
 
 .container{
-    background-color: aqua;
     align-items: center;
     padding: 20px;
     border-radius: 10px;
     width: 50%;
-    background-color: burlywood;
+    background-color: rgb(233, 170, 214);
 }
 
 input {
-    width: 70%;
+    width: 80%;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
@@ -28,14 +27,13 @@ input {
 button{
     padding: 10px;
     border: none;
-    background-color: chartreuse;
-    color: chocolate;
+    background-color: rgb(172, 60, 112);
+    color: rgb(248, 247, 246);
     cursor: pointer;
     border-radius: 4px;
-
 }
 button:hover {
-    background-color: #218838;
+    background-color: #fa0808;
 }
 
 ul {
@@ -53,12 +51,8 @@ li{
     margin: 5px 0;
     border-radius: 4px;
 }
-      .remove {
-            background-color: #dc3545;
-        }
-        .remove:hover {
-            background-color: #c82333;
-        }
-            
+h2{
+    color: #ffffff;
+}
 
 
